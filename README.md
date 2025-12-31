@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/LailaMosbah/meun-app.git
-cd click-and-cook
+cd menu-app
 ````
 
 2. Install dependencies:
@@ -36,22 +36,7 @@ npm install
 npm run dev
 ```
 
----
 
-## 📁 Deployment
-
-This project is deployed using **GitHub Pages**. To deploy:
-
-```bash
-npm run build
-npm run deploy
-```
-
-Make sure the `vite.config.js` file includes the correct `base`:
-
-```js
-base: '/click-and-cook/',
-```
 
 ---
 
