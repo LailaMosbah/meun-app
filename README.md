@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-[Click here to view the live app](https://lailamosbah.github.io/click-and-cook/)
+[Click here to view the live app](https://table-menu.netlify.app/)
 
 
 ## 🛠️ Built With
@@ -20,7 +20,7 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/LailaMosbah/click-and-cook.git
+git clone https://github.com/LailaMosbah/meun-app.git
 cd click-and-cook
 ````
 
