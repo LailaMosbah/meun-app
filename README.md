@@ -1,30 +1,17 @@
-# 🍳 Click & Cook
+# 🍳 Menue
 
-Click & Cook is a simple and user-friendly React-based web application that allows users to search for a wide variety of recipes using the [Spoonacular API](https://spoonacular.com/food-api). It’s designed to help users discover new dishes and get inspired in the kitchen.
 
 ## 🚀 Live Demo
 
 [Click here to view the live app](https://lailamosbah.github.io/click-and-cook/)
 
----
-
-## 📌 Features
-
-- 🔍 Search for recipes by keyword (e.g., "pasta", "chicken", etc.)
-- 🖼️ Display recipe results with images and titles
-- 🌐 Fetch real-time data from the Spoonacular API
-- 📱 Fully responsive and clean UI
-
----
 
 ## 🛠️ Built With
 
 - **React.js** – Frontend library for building the UI
 - **Vite** – Fast development build tool
-- **React Router** – Handle navigation between components
 - **Axios** – To fetch data from the API
 - **Spoonacular API** – For recipe data
-- **GitHub Pages** – Deployment
 
 ---
 
